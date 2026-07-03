@@ -8,7 +8,6 @@
 ### Tech Stack
 
 * C++
-* Java
 * HTML, CSS, JavaScript
 * React
 * Git & GitHub
